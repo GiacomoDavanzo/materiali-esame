@@ -1,8 +1,8 @@
-<img align="left" width="80" height="80" src="https://github.com/ITIS-Zuccante/5ic-2020-2021-elaborato-finale-GiacomoDavanzo/blob/main/Logo%20white.png" alt="Logo di Jack">
+<img align="left" width="80" height="80" src="https://github.com/GiacomoDavanzo/materiali-esame/blob/main/Logo%20white.png" alt="Logo di Jack">
 
 # Materiali elaborato Davanzo Giacomo
 <p align="center">
-  <img width="426" height="180" src="https://github.com/ITIS-Zuccante/5ic-2020-2021-elaborato-finale-GiacomoDavanzo/blob/main/Logo/Colored.png">
+  <img width="426" height="180" src="https://github.com/GiacomoDavanzo/materiali-esame/blob/main/Logo/Colored.png">
 </p>
 
 Questa repository contiene i materiali sviluppati da me (Giacomo Davanzo) a supporto dell'elaborato per l'**Esame di Stato 2020/21**.\
