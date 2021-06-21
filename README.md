@@ -21,3 +21,4 @@ Work Breakdown Structure | [PDF](https://github.com/GiacomoDavanzo/materiali-esa
 UML dei casi d'uso | [PDF](https://github.com/GiacomoDavanzo/materiali-esame/blob/main/UML%20Use%20Cases%20HitchARide.pdf) | [PDF](https://drive.google.com/file/d/1qGQE1ZGYdYTAwhIx2Y8uZ-DwUw4cU15X/view?usp=sharing)
 Prototipo UI |  | [Figma](https://www.figma.com/file/EHgIMOOkFuyS9O16VDIlJP/Interfaccia-Sito-Tesina?node-id=0%3A1) | 
 Gantt |  | [PDF](https://drive.google.com/file/d/1Zde_z6wHJaVLV7LBHlqBXwCYrnyIzcFa/view?usp=sharing) | [.gan](https://drive.google.com/file/d/13d8oLHZF-pmAhCAlnC6y03uKvhaCZTtS/view?usp=sharing)
+Presentazione | [PDF](https://github.com/GiacomoDavanzo/materiali-esame/raw/main/Presentazione%20HitchARide.pdf) | [Google Slides](https://docs.google.com/presentation/d/1ROUyieY0I7MM80PxVWV46X9upFUv2u2ZaOyqZYl_KYg/edit?usp=sharing) |  [PDF](https://drive.google.com/file/d/1u6audvo5wHdDeYdEu-jG9NCvvTufqyCG/view?usp=sharing)
